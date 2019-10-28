@@ -20,7 +20,7 @@ Estratégia
 
 ## Busca em Profundidade combinada com A* ##
 
-A Busca em profundidade percorre as regiões livres(0) partindo da posição atual(1) e tem como objetivo encontrar uma região desconhecida(9). Essa informação alimenta o algoritmo de planejamento de trajetória (A*) responsável por entregar, se possível, o caminho a ser percorrido.
+A Busca em profundidade percorre as regiões livres(0) partindo da região atual(1) e tem como objetivo encontrar uma região desconhecida(9). Essa informação alimenta o algoritmo de planejamento de trajetória (A*) responsável por entregar, se possível, o caminho a ser percorrido.
 
 ## Busca em Profundidade ##
 
