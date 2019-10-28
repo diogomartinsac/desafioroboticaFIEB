@@ -28,3 +28,4 @@ A Busca em profundidade é utilizada para os casos em que o A* não consegue enc
 
 
 
+Observação: Por algum motivo a "mapMatrix" as vezes retem informações da última simulação. Para evitar que isso prejudique o desempenho, basta reiniciar a simulação.
