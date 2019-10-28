@@ -3,7 +3,7 @@ Desafio de Robótica
 
 O quadricóptero autônomo deve procurar uma caixa preta no labirinto desviando de paredes e obstáculos. Para realizar a tarefa, foram adicionados 4 lasers, responsáveis por medir a distância até as paredes, e 4 sensores de visão, necessários para identificação da caixa. O mapa é discretizado de acordo com o intervalo escolhido e cada posição na matriz "mapMatrix" representa uma região do mapa. A matriz é inicializada e preenchida de acordo com leitura dos sensores e movimentação do veículo.
 
-A "mapMatrix" pode ser preenchida com os seguintes valores:
+A "mapMatrix" pode conter com os seguintes valores:
 
 Região desconhecida: 9
 
