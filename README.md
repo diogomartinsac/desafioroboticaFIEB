@@ -7,11 +7,11 @@ A "mapMatrix" pode ser preenchida com os seguintes valores:
 
 Região desconhecida: 9
 
-Parede:3
+Parede: 3
 
-Posição atual:1
+Região atual: 1
 
-Região visitada:2
+Região visitada: 2
 
 Região Livre: 0
 
